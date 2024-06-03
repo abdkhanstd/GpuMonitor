@@ -31,7 +31,7 @@ MEMORY_USER_LIMIT = 5  # Number of top memory-using processes to show
 
 ##Usage
 Run the script using Python:
-``` python gpu_monitor.py
+``` python GPUMon.py
 
 ##Example Output
 GPU0 NVIDIA A100    Temp: 45C [████████░░] Load: 12.50% [████░░░░] Mem: 2048/46384 MB [███░░░░░] Freq: 1950/1980 MHz [███████░]
