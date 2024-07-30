@@ -66,14 +66,14 @@ gpumon --bar-length 5 --refresh-rate 1.0
 ## Example Output
 
 ```
-[0]-NVIDIA A100              Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[1]-NVIDIA A100              Fan:  75% Power: 245.00 W Temp:  73C [███░░] Load:  85% [███░░] Mem:  78000/80000 MB [██████] Freq: 1550/2100 MHz [███░░]
-[2]-NVIDIA A100              Fan:  65% Power: 260.00 W Temp:  70C [███░░] Load:  80% [███░░] Mem:  77000/80000 MB [██████] Freq: 1600/2100 MHz [███░░]
-[3]-NVIDIA A100              Fan:  68% Power: 255.00 W Temp:  71C [███░░] Load:  75% [███░░] Mem:  76000/80000 MB [██████] Freq: 1650/2100 MHz [███░░]
-[4]-NVIDIA A100              Fan:  72% Power: 240.00 W Temp:  74C [███░░] Load:  95% [███░░] Mem:  80000/80000 MB [██████] Freq: 1700/2100 MHz [███░░]
-[5]-NVIDIA A100              Fan:  60% Power: 250.00 W Temp:  72C [███░░] Load:  85% [███░░] Mem:  79000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[6]-NVIDIA A100              Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[7]-NVIDIA A100              Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
+[0]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
+[1]-NVIDIA A100 Fan:  75% Power: 245.00 W Temp:  73C [███░░] Load:  85% [███░░] Mem:  78000/80000 MB [██████] Freq: 1550/2100 MHz [███░░]
+[2]-NVIDIA A100 Fan:  65% Power: 260.00 W Temp:  70C [███░░] Load:  80% [███░░] Mem:  77000/80000 MB [██████] Freq: 1600/2100 MHz [███░░]
+[3]-NVIDIA A100 Fan:  68% Power: 255.00 W Temp:  71C [███░░] Load:  75% [███░░] Mem:  76000/80000 MB [██████] Freq: 1650/2100 MHz [███░░]
+[4]-NVIDIA A100 Fan:  72% Power: 240.00 W Temp:  74C [███░░] Load:  95% [███░░] Mem:  80000/80000 MB [██████] Freq: 1700/2100 MHz [███░░]
+[5]-NVIDIA A100 Fan:  60% Power: 250.00 W Temp:  72C [███░░] Load:  85% [███░░] Mem:  79000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
+[6]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
+[7]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
 ```
 
 ## License
