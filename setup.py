@@ -1,7 +1,5 @@
-from setuptools import setup, find_packages
-
 setup(
-    name="GpuMonitor",  # Your package name
+    name="gpumon",  # Your package name
     version="0.1.0",    # Initial version number
     packages=find_packages(),
     include_package_data=True,
