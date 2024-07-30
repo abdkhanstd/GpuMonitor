@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="gpumon",  # Your package name
-    version="0.1.0",    # Initial version number
+    name="gpumon",  # New package name
+    version="0.0.6",
     packages=find_packages(),
     include_package_data=True,
     description="A simple GPU monitoring tool using GPUtil and psutil",
@@ -24,7 +24,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'gpumon=GPUMon:main',
+            'gpumon=gpumon:main',  # Update to reflect the new package name and entry point
         ],
     },
 )
