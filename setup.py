@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name="gpumon",  # Your package name
     version="0.1.0",    # Initial version number
