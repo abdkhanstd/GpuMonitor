@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gpumon",  # New package name
-    version="0.0.6",
+    version="0.0.8",
     packages=find_packages(),
     include_package_data=True,
     description="A simple GPU monitoring tool using GPUtil and psutil",
