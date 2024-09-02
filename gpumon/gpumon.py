@@ -30,7 +30,7 @@ def get_gpu_clock_frequencies(gpu_id):
         current_freq, max_freq = map(int, re.findall(r'\d+', output))
         return current_freq, max_freq
     except Exception as e:
-        print("Error fetching GPU clock frequencies:", e)
+        #print("Error fetching GPU clock frequencies:", e)
         return 0, 0
 
 def get_gpu_fan_speed(gpu_id):
@@ -41,7 +41,7 @@ def get_gpu_fan_speed(gpu_id):
         fan_speed = int(re.findall(r'\d+', output)[0])
         return fan_speed
     except Exception as e:
-        print("Error fetching GPU fan speed:", e)
+        #print("Error fetching GPU fan speed:", e)
         return 0
 
 def get_gpu_power_usage(gpu_id):
@@ -52,7 +52,7 @@ def get_gpu_power_usage(gpu_id):
         power_usage = float(re.findall(r'\d+\.\d+', output)[0])
         return power_usage
     except Exception as e:
-        print("Error fetching GPU power usage:", e)
+        #print("Error fetching GPU power usage:", e)
         return 0.0
 
 def print_progress_bar(percentage, max_value=100, bar_length=6, bar_character='█', empty_character='░', color='\033[92m'):
