@@ -66,14 +66,16 @@ gpumon --bar-length 5 --refresh-rate 1.0
 ## Example Output
 
 ```
-[0]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[1]-NVIDIA A100 Fan:  75% Power: 245.00 W Temp:  73C [███░░] Load:  85% [███░░] Mem:  78000/80000 MB [██████] Freq: 1550/2100 MHz [███░░]
-[2]-NVIDIA A100 Fan:  65% Power: 260.00 W Temp:  70C [███░░] Load:  80% [███░░] Mem:  77000/80000 MB [██████] Freq: 1600/2100 MHz [███░░]
-[3]-NVIDIA A100 Fan:  68% Power: 255.00 W Temp:  71C [███░░] Load:  75% [███░░] Mem:  76000/80000 MB [██████] Freq: 1650/2100 MHz [███░░]
-[4]-NVIDIA A100 Fan:  72% Power: 240.00 W Temp:  74C [███░░] Load:  95% [███░░] Mem:  80000/80000 MB [██████] Freq: 1700/2100 MHz [███░░]
-[5]-NVIDIA A100 Fan:  60% Power: 250.00 W Temp:  72C [███░░] Load:  85% [███░░] Mem:  79000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[6]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
-[7]-NVIDIA A100 Fan:  70% Power: 250.00 W Temp:  72C [███░░] Load:  90% [███░░] Mem:  80000/80000 MB [██████] Freq: 1500/2100 MHz [███░░]
+
+[0]-NVIDIA RTX A6000 Fan:  30% Power: 107.31 W Temp:  53C [███░░] Load:   3% [░░░░░] Mem:  9265/49140 MB [█░░░░] Freq: 1920/2100 MHz [█████]
+[1]-NVIDIA RTX A6000 Fan:  34% Power: 112.09 W Temp:  62C [███░░] Load:   4% [░░░░░] Mem:  4607/49140 MB [░░░░░] Freq: 1905/2100 MHz [█████]
+[2]-NVIDIA RTX A6000 Fan:  36% Power: 120.68 W Temp:  64C [███░░] Load:   4% [░░░░░] Mem:  4607/49140 MB [░░░░░] Freq: 1890/2100 MHz [████░]
+[3]-NVIDIA RTX A6000 Fan:  30% Power: 104.77 W Temp:  58C [███░░] Load:   4% [░░░░░] Mem:  4583/49140 MB [░░░░░] Freq: 1905/2100 MHz [█████]
+[4]-NVIDIA RTX A6000 Fan:  30% Power:  99.32 W Temp:  58C [███░░] Load:   2% [░░░░░] Mem:  4583/49140 MB [░░░░░] Freq: 1920/2100 MHz [█████]
+[5]-NVIDIA RTX A6000 Fan:  35% Power: 101.68 W Temp:  64C [███░░] Load:   1% [░░░░░] Mem:  4521/49140 MB [░░░░░] Freq: 1890/2100 MHz [████░]
+[6]-NVIDIA RTX A6000 Fan:  34% Power:  96.49 W Temp:  62C [███░░] Load:   4% [░░░░░] Mem:  4607/49140 MB [░░░░░] Freq: 1875/2100 MHz [████░]
+[7]-NVIDIA RTX A6000 Fan:  30% Power: 106.99 W Temp:  56C [███░░] Load:   4% [░░░░░] Mem:  4497/49140 MB [░░░░░] Freq: 1905/2100 MHz [█████]
+
 ```
 
 ## License
